@@ -1,0 +1,8 @@
+C:\Users\konyang\source\repos\cs02\001_bmi\bin\Debug\001_bmi.exe.config
+C:\Users\konyang\source\repos\cs02\001_bmi\bin\Debug\001_bmi.exe
+C:\Users\konyang\source\repos\cs02\001_bmi\bin\Debug\001_bmi.pdb
+C:\Users\konyang\source\repos\cs02\001_bmi\obj\Debug\001_bmi.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\cs02\001_bmi\obj\Debug\001_bmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\cs02\001_bmi\obj\Debug\001_bmi.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\cs02\001_bmi\obj\Debug\001_bmi.exe
+C:\Users\konyang\source\repos\cs02\001_bmi\obj\Debug\001_bmi.pdb
