@@ -1,0 +1,11 @@
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\bin\Debug\019_Timer.exe.config
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\bin\Debug\019_Timer.exe
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\bin\Debug\019_Timer.pdb
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\019_Timer.csproj.AssemblyReference.cache
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\019_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\_019_Timer.Form1.resources
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\_019_Timer.Properties.Resources.resources
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\019_Timer.csproj.GenerateResource.cache
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\019_Timer.csproj.CoreCompileInputs.cache
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\019_Timer.exe
+C:\Users\konyang\Desktop\cs02_인교\019_Timer\obj\Debug\019_Timer.pdb
