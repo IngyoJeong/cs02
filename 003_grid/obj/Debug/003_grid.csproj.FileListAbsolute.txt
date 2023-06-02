@@ -1,0 +1,16 @@
+C:\Users\konyang\source\repos\cs02_1\003_grid\bin\Debug\003_grid.exe.config
+C:\Users\konyang\source\repos\cs02_1\003_grid\bin\Debug\003_grid.exe
+C:\Users\konyang\source\repos\cs02_1\003_grid\bin\Debug\003_grid.pdb
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\MainWindow.g.cs
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\App.g.cs
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid_MarkupCompile.cache
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid_MarkupCompile.lref
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\MainWindow.baml
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid.g.resources
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\_003_grid.Properties.Resources.resources
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid.exe
+C:\Users\konyang\source\repos\cs02_1\003_grid\obj\Debug\003_grid.pdb

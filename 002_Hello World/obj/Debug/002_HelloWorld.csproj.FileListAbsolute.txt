@@ -1,0 +1,16 @@
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\bin\Debug\oo2_Hello World.exe.config
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\bin\Debug\oo2_Hello World.exe
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\bin\Debug\oo2_Hello World.pdb
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\002_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\002_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\MainWindow.g.cs
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\App.g.cs
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\oo2_Hello World_MarkupCompile.cache
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\oo2_Hello World_MarkupCompile.lref
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\MainWindow.baml
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\oo2_Hello World.g.resources
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\oo2_Hello_World.Properties.Resources.resources
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\002_HelloWorld.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\002_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\oo2_Hello World.exe
+C:\Users\konyang\source\repos\cs02_1\oo2_Hello World\obj\Debug\oo2_Hello World.pdb
